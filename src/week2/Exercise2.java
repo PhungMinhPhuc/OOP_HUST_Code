@@ -7,10 +7,10 @@ public class Exercise2 {
         // Create a Scanner object to read input from the keyboard
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Input number of elements:");
+        System.out.println("Enter number of elements:");
         int n = sc.nextInt();
         int arr[] = new int [n];
-        System.out.println("Input elements:");
+        System.out.println("Enter elements:");
         for(int i = 0; i < n; i++){
             arr[i] = sc.nextInt();
         }
