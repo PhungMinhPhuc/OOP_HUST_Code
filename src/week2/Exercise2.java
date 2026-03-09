@@ -1,3 +1,5 @@
+/*Bài tập 2: Viết chương trình sắp xếp một dãy số theo thứ tự tăng dần, dãy số được nhập từ bàn phím. */
+
 package week2;
 
 import java.util.*;

@@ -1,3 +1,11 @@
+/*Bài tập 3: Viết chương trình nhập chiều cao h từ bàn phím, sau đó hiển thị các tam giác hình sao có chiều cao h như dưới đây. Chú ý có kiểm tra điều kiện của h: 2<=h<=10. Nếu h nằm ngoài đoạn trên, yêu cầu người dùng nhập lại. 
+    *
+   ***
+  *****
+ *******
+*********
+*/
+
 package week2;
 
 import java.util.*;
