@@ -8,6 +8,7 @@ public class TestNV {
         nv1.inTTin();
         System.out.println(nv1.tinhluong());
         System.out.println(nv1.tangLuong());
+        
         nv2.inTTin();
         System.out.println(nv2.tinhluong());
         System.out.println(nv2.tangLuong());

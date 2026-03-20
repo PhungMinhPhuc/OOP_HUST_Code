@@ -11,7 +11,7 @@ import java.util.*;
 public class Test {
     public static void  main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the number of students: ");
+        System.out.print("Enter number of students: ");
         int n = sc.nextInt();
         sc.nextLine();
         Student cls[] = new Student[n];
