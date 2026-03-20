@@ -1,3 +1,11 @@
+/*• Viết lớp Student
+• name
+• year
+• 1 phương thức khởi dựng
+• Student(String name, int year)
+• Tự tạo phương thức geãer, seãer cho đủ dùng
+• Đảm bảo đóng gói, che dấu dữ liệu */
+
 package week4;
 
 public class Student {
